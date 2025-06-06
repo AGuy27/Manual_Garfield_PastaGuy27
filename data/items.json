@@ -1,0 +1,858 @@
+[
+  {
+    "count": 1,
+    "name": "Purple Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yellow Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Blue Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pink Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Red Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Green Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Green Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Orange Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Light Blue Key",
+    "category": [
+      "Keys"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "8-Ball",
+    "category": [
+      "Small Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alarm Clock",
+    "category": [
+      "Basement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dumbbell",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Baseball",
+    "category": [
+      "Greenhouse"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bathroom Scale",
+    "category": [
+      "Attic"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beef",
+    "category": [
+      "Basement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Birdhouse",
+    "category": [
+      "Games Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boomerang",
+    "category": [
+      "Bathroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Box of Apples",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bunny Slipper",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Buzzsaw",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Baseball Glove",
+    "category": [
+      "Bathroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Board Game",
+    "category": [
+      "Basement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clock",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Green Bottle",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Conga Drum",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cookie Jar",
+    "category": [
+      "Attic"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cushion",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dart",
+    "category": [
+      "Garage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DVD Player",
+    "category": [
+      "Small Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Egg Basket",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fertilizer",
+    "category": [
+      "Garage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fish",
+    "category": [
+      "Attic"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flower Pot",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fuse",
+    "category": [
+      "Games Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gramophone",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Guitar",
+    "category": [
+      "Hallway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hat",
+    "category": [
+      "Garage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hot Water Bottle",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kitchen Scale",
+    "category": [
+      "Small Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lei",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magazine Rack",
+    "category": [
+      "Small Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Maraca",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mailbox",
+    "category": [
+      "Bathroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yellow Vase",
+    "category": [
+      "Small Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hose Nozzle",
+    "category": [
+      "Garage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Odie's Bowl",
+    "category": [
+      "Attic"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Oil Can",
+    "category": [
+      "Games Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nermal's Pasta",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Patio Light",
+    "category": [
+      "Attic"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pepper Jar",
+    "category": [
+      "Games Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Telephone",
+    "category": [
+      "Utility Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Piggy Bank",
+    "category": [
+      "Basement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pinata",
+    "category": [
+      "Basement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pool Cue",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Power Drill",
+    "category": [
+      "Attic"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Power Sander",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pumpkin",
+    "category": [
+      "Bathroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Radio",
+    "category": [
+      "Bathroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "RC Car",
+    "category": [
+      "Basement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Record",
+    "category": [
+      "Landing"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TV Remote",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rubber Duck",
+    "category": [
+      "Greenhouse"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arlene's Sauce",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Bottle",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Skate",
+    "category": [
+      "Garage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sombrero",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stereo",
+    "category": [
+      "Games Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rubber Chicken",
+    "category": [
+      "Basement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tie",
+    "category": [
+      "Games Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tire",
+    "category": [
+      "Attic"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toaster",
+    "category": [
+      "Garage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Plunger",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Towel",
+    "category": [
+      "Den"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toy Car",
+    "category": [
+      "Living Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Trash Can",
+    "category": [
+      "Landing"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Car Jack",
+    "category": [
+      "Bathroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Trumpet",
+    "category": [
+      "Small Bedroom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Vase",
+    "category": [
+      "Basement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Video Game",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Weight",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Valve Wheel",
+    "category": [
+      "Garden"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Basement Storage Box",
+    "category": [
+      "Basement"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Games Room Storage Box",
+    "category": [
+      "Games Room"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Animal Bed",
+    "category": [
+      "Den"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bunny Trophy",
+    "category": [
+      "Den"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Candleabra",
+    "category": [
+      "Landing"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Desk Lamp",
+    "category": [
+      "Landing"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Disco Trophy",
+    "category": [
+      "Living Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Globe",
+    "category": [
+      "Den"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lamp",
+    "category": [
+      "Den"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Monitor",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Recycling Bin",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Red Book",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round Picture Frame",
+    "category": [
+      "Utility Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tissues",
+    "category": [
+      "Hallway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Laundry Basket",
+    "category": [
+      "Hallway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Speaker",
+    "category": [
+      "Hallway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Console Classic",
+    "category": [
+      "Games Room"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Garfield Photo",
+    "category": [
+      "Living Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boots",
+    "category": [
+      "Living Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Laundry Detergent",
+    "category": [
+      "Utility Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bucket",
+    "category": [
+      "Utility Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cheese",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fish Bowl",
+    "category": [
+      "Kitchen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fruit Bowl",
+    "category": [
+      "Living Room"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Green Plate",
+    "category": [
+      "Living Room"
+    ],
+    "progression": true
+  }
+]

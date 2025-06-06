@@ -1,0 +1,905 @@
+[
+  {
+    "name": "Den Completion",
+    "region": "Den",
+    "category": [
+      "Den"
+    ],
+    "requires": "|Bunny Trophy| AND |Desk Lamp| AND |Disco Trophy| AND |Globe| AND |Monitor| AND |Recycling Bin|",
+    "place_item": [
+      "Purple Key"
+    ]
+  },
+  {
+    "name": "Utility Room Completion",
+    "region": "Utility Room",
+    "category": [
+      "Utility Room"
+    ],
+    "requires": "|Animal Bed| AND |Laundry Basket| AND |Boots| AND |Laundry Detergent| AND |Bucket|",
+    "place_item": [
+      "Yellow Key"
+    ]
+  },
+  {
+    "name": "Living Room Completion",
+    "region": "Living Room",
+    "category": [
+      "Living Room"
+    ],
+    "requires": "|TV Remote| AND |DVD Player| AND |Cushion| AND |Magazine Rack| AND |Purple Key| AND |Yellow Key| AND |Speaker| AND |Garfield Photo| AND |Fish Bowl|",
+    "place_item": [
+      "Dark Blue Key"
+    ]
+  },
+  {
+    "name": "Landing Completion",
+    "region": "Landing",
+    "category": [
+      "Landing"
+    ],
+    "requires": "|Yellow Vase| AND |Blue Vase| AND |Dark Blue Key| AND |Yellow Key| AND |Candleabra| AND |Lamp|",
+    "place_item": [
+      "Pink Key"
+    ]
+  },
+  {
+    "name": "Hallway Completion",
+    "region": "Hallway",
+    "category": [
+      "Hallway"
+    ],
+    "requires": "|Clock| AND |Purple Key| AND |Red Book| AND |Round Picture Frame| AND |Tissues|"
+  },
+  {
+    "name": "Jon's Bedroom Completion",
+    "region": "Jon's Bedroom",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "requires": "|Bunny Slipper| AND |Hot Water Bottle| AND |Alarm Clock| AND |Stereo| AND |Tie| AND |Dark Blue Key| AND |Pink Key| AND |Purple Key| AND |Telephone| AND |Trash Can|",
+    "place_item": [
+      "Red Key"
+    ]
+  },
+  {
+    "name": "Small Bedroom Completion",
+    "region": "Small Bedroom",
+    "category": [
+      "Small Bedroom"
+    ],
+    "requires": "|Sombrero| AND |Conga Drum| AND |Pinata| AND |Purple Key| AND |Dark Blue Key| AND |Yellow Key| AND |Guitar| AND |Lei| AND |Maraca|",
+    "place_item": [
+      "Green Key"
+    ]
+  },
+  {
+    "name": "Basement Completion",
+    "region": "Basement",
+    "category": [
+      "Basement"
+    ],
+    "requires": "|Fuse| AND |Valve Wheel| AND |Trumpet| AND |Weight| AND |Dumbbell| AND |Skate| AND |Pink Key| AND |Green Key| AND |Yellow Key| AND |Red Key| AND |Dark Blue Key|",
+    "place_item": [
+      "Dark Green Key"
+    ]
+  },
+  {
+    "region": "Games Room",
+    "name": "Games Room Completion",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|8-Ball| AND |Dart| AND |Pool Cue| AND |Piggy Bank| AND |Board Game| AND |Video Game| AND |Yellow Key| AND |Red Key| AND |Green Key| AND |Dark Blue Key| AND |Pink Key| AND |Record| AND |Toy Car|",
+    "place_item": [
+      "Orange Key"
+    ]
+  },
+  {
+    "name": "Garage Completion",
+    "region": "Garage",
+    "category": [
+      "Garage"
+    ],
+    "requires": "|Oil Can| AND |Power Drill| AND |Tire| AND |RC Car| AND |Power Sander| AND |Car Jack| AND |Buzzsaw| AND |Pink Key| AND |Orange Key| AND |Red Key| AND |Green Key| AND |Dark Green Key|",
+    "place_item": [
+      "Black Key"
+    ]
+  },
+  {
+    "name": "Garden Completion",
+    "region": "Garden",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Mailbox| AND |Birdhouse| AND |Patio Light| AND |Dark Green Key| AND |Pink Key| AND |Orange Key| AND |Fertilizer| AND |Hose Nozzle| AND |Pumpkin| AND |Odie's Bowl| AND |Red Key| AND |Green Key| AND |Flower Pot|"
+  },
+  {
+    "name": "Bathroom Completion",
+    "region": "Bathroom",
+    "category": [
+      "Bathroom"
+    ],
+    "requires": "|Blue Bottle| AND |Green Bottle| AND |Rubber Duck| AND |Fish| AND |Bathroom Scale| AND |Green Key| AND |Black Key| AND |Orange Key| AND |Patio Light| AND |Dark Green Key| AND |Plunger| AND |Towel|"
+  },
+  {
+    "name": "Attic Completion",
+    "region": "Attic",
+    "category": [
+      "Attic"
+    ],
+    "requires": "|Boomerang| AND |Baseball Glove| AND |Rubber Chicken| AND |Hat| AND |Gramophone| AND |Baseball| AND |Dark Green Key| AND |Dark Blue Key| AND |Red Key| AND |Green Key| AND |Black Key| AND |Patio Light| AND |Orange Key| AND |Box of Apples|",
+    "place_item": [
+      "Light Blue Key"
+    ]
+  },
+  {
+    "name": "Greenhouse Completion",
+    "region": "Greenhouse",
+    "category": [
+      "Greenhouse"
+    ],
+    "requires": "|Box of Apples| AND |Green Key| AND |Patio Light| AND |Orange Key| AND |Black Key|"
+  },
+  {
+    "name": "Kitchen Completion",
+    "victory": true,
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Cookie Jar| AND |Egg Basket| AND |Pepper Jar| AND |Orange Key| AND |Green Key| AND |Pink Key| AND |Beef| AND |Nermal's Pasta| AND |Arlene's Sauce| AND |Toaster| AND |Radio| AND |Dark Blue Key| AND |Yellow Key| AND |Red Key| AND |Dark Green Key| AND |Patio Light| AND |Kitchen Scale| AND |Black Key| AND |Cheese| AND |Fruit Bowl| AND |Green Plate|"
+  },
+  {
+    "name": "8-Ball (Small Bedroom --> Games Room)",
+    "region": "Games Room",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|8-Ball| AND |Yellow Key| AND |Pink Key|"
+  },
+  {
+    "name": "Alarm Clock (Basement --> Jon's Bedroom)",
+    "region": "Basement",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "requires": "|Alarm Clock| AND |Dark Blue Key| AND |Purple Key|"
+  },
+  {
+    "name": "Animal Bed (Den --> Utility Room)",
+    "region": "Den",
+    "category": [
+      "Utility Room"
+    ],
+    "requires": "|Animal Bed|"
+  },
+  {
+    "name": "Dumbbell (Garden --> Basement)",
+    "region": "Garden",
+    "category": [
+      "Basement"
+    ],
+    "requires": "|Dumbbell| AND |Green Key| AND |Dark Blue Key|"
+  },
+  {
+    "name": "Baseball (Greenhouse --> Attic)",
+    "region": "Greenhouse",
+    "category": [
+      "Attic"
+    ],
+    "requires": "|Baseball| AND |Black Key| AND |Orange Key| AND |Box of Apples| AND |Green Key|"
+  },
+  {
+    "name": "Bathroom Scale (Attic --> Bathroom)",
+    "region": "Attic",
+    "category": [
+      "Bathroom"
+    ],
+    "requires": "|Bathroom Scale| AND |Orange Key| AND |Dark Green Key|"
+  },
+  {
+    "name": "Beef (Basement --> Kitchen)",
+    "region": "Basement",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Beef| AND |Dark Blue Key|"
+  },
+  {
+    "name": "Birdhouse (Games Room --> Garden)",
+    "region": "Garden",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Birdhouse| AND |Pink Key| AND |Green Key|"
+  },
+  {
+    "name": "Boomerang (Bathroom --> Attic)",
+    "region": "Attic",
+    "category": [
+      "Attic"
+    ],
+    "requires": "|Boomerang| AND |Dark Green Key| AND |Orange Key|"
+  },
+  {
+    "name": "Boots (Living Room --> Utility Room)",
+    "region": "Living Room",
+    "category": [
+      "Utility Room"
+    ],
+    "requires": "|Boots|"
+  },
+  {
+    "name": "Box of Apples (Garden --> Greenhouse)",
+    "region": "Greenhouse",
+    "category": [
+      "Greenhouse"
+    ],
+    "requires": "|Box of Apples| AND |Green Key| AND |Black Key| AND |Patio Light| AND |Orange Key|"
+  },
+  {
+    "name": "Laundry Detergent (Utility Room --> Utility Room)",
+    "region": "Utility Room",
+    "category": [
+      "Utility Room"
+    ],
+    "requires": "|Laundry Detergent|"
+  },
+  {
+    "name": "Bucket (Utility Room --> Utility Room)",
+    "category": [
+      "Utility Room"
+    ],
+    "requires": "|Bucket|",
+    "region": "Utility Room"
+  },
+  {
+    "name": "Bunny Slipper (Jon's Bedroom --> Jon's Bedroom)",
+    "region": "Jon's Bedroom",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "requires": "|Bunny Slipper| AND |Purple Key|"
+  },
+  {
+    "name": "Bunny Trophy (Den --> Den)",
+    "region": "Den",
+    "category": [
+      "Den"
+    ],
+    "requires": "|Bunny Trophy|"
+  },
+  {
+    "name": "Buzzsaw (Garden --> Garage)",
+    "region": "Garden",
+    "category": [
+      "Garage"
+    ],
+    "requires": "|Buzzsaw| AND |Green Key| AND |Red Key| AND |Patio Light| AND |Orange Key|"
+  },
+  {
+    "name": "Candleabra (Landing --> Landing)",
+    "region": "Landing",
+    "category": [
+      "Landing"
+    ],
+    "requires": "|Candleabra|"
+  },
+  {
+    "name": "Baseball Glove (Bathroom --> Attic)",
+    "region": "Attic",
+    "category": [
+      "Attic"
+    ],
+    "requires": "|Baseball Glove| AND |Dark Green Key| AND |Orange Key|"
+  },
+  {
+    "name": "Cheese (Kitchen --> Kitchen)",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Cheese|"
+  },
+  {
+    "name": "Board Game (Basement --> Games Room)",
+    "region": "Games Room",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|Board Game| AND |Dark Blue Key| AND |Pink Key|"
+  },
+  {
+    "name": "Clock (Jon's Bedroom --> Hallway)",
+    "region": "Jon's Bedroom",
+    "category": [
+      "Hallway"
+    ],
+    "requires": "|Clock| AND |Purple Key|"
+  },
+  {
+    "name": "Green Bottle (Garden --> Bathroom)",
+    "region": "Bathroom",
+    "category": [
+      "Bathroom"
+    ],
+    "requires": "|Green Bottle| AND |Green Key| AND |Dark Green Key|"
+  },
+  {
+    "name": "Conga Drum (Jon's Bedroom --> Small Bedroom)",
+    "region": "Small Bedroom",
+    "category": [
+      "Small Bedroom"
+    ],
+    "requires": "|Conga Drum| AND |Purple Key| AND |Yellow Key|"
+  },
+  {
+    "name": "Cookie Jar (Attic --> Kitchen)",
+    "region": "Attic",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Cookie Jar| AND |Orange Key|"
+  },
+  {
+    "name": "Cushion (Jon's Bedroom --> Living Room)",
+    "region": "Jon's Bedroom",
+    "category": [
+      "Living Room"
+    ],
+    "requires": "|Cushion| AND |Purple Key|"
+  },
+  {
+    "name": "Dart (Garage --> Games Room)",
+    "region": "Garage",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|Dart| AND |Red Key| AND |Pink Key|"
+  },
+  {
+    "name": "Desk Lamp (Landing --> Den)",
+    "region": "Landing",
+    "category": [
+      "Den"
+    ],
+    "requires": "|Desk Lamp|"
+  },
+  {
+    "name": "Disco Trophy (Living Room --> Den)",
+    "region": "Living Room",
+    "category": [
+      "Den"
+    ],
+    "requires": "|Disco Trophy|"
+  },
+  {
+    "name": "DVD Player (Small Bedroom --> Living Room)",
+    "region": "Small Bedroom",
+    "category": [
+      "Living Room"
+    ],
+    "requires": "|DVD Player| AND |Yellow Key|"
+  },
+  {
+    "name": "Egg Basket (Garden --> Kitchen)",
+    "region": "Garden",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Egg Basket| AND |Green Key| AND |Patio Light| AND |Orange Key|"
+  },
+  {
+    "name": "Fertilizer (Garage --> Garden)",
+    "region": "Garden",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Fertilizer| AND |Red Key| AND |Green Key|"
+  },
+  {
+    "name": "Fish (Attic --> Bathroom)",
+    "region": "Attic",
+    "category": [
+      "Bathroom"
+    ],
+    "requires": "|Fish| AND |Orange Key| AND |Dark Green Key|"
+  },
+  {
+    "name": "Fish Bowl (Kitchen --> Living Room)",
+    "region": "Kitchen",
+    "category": [
+      "Living Room"
+    ],
+    "requires": "|Fish Bowl|"
+  },
+  {
+    "name": "Flower Pot (Kitchen --> Garden)",
+    "region": "Garden",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Flower Pot| AND |Green Key|"
+  },
+  {
+    "name": "Fruit Bowl (Living Room --> Kitchen)",
+    "region": "Living Room",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Fruit Bowl|"
+  },
+  {
+    "name": "Fuse (Game Room --> Basement)",
+    "region": "Games Room",
+    "category": [
+      "Basement"
+    ],
+    "requires": "|Fuse| AND |Pink Key| AND |Dark Blue Key|"
+  },
+  {
+    "name": "Garfield Photo (Living Room --> Living Room)",
+    "region": "Living Room",
+    "category": [
+      "Living Room"
+    ],
+    "requires": "|Magazine Rack| AND |Yellow Key| AND |Garfield Photo|"
+  },
+  {
+    "name": "Globe (Den --> Den)",
+    "region": "Den",
+    "category": [
+      "Den"
+    ],
+    "requires": "|Globe|"
+  },
+  {
+    "name": "Gramophone (Garden --> Attic)",
+    "region": "Attic",
+    "category": [
+      "Attic"
+    ],
+    "requires": "|Gramophone| AND |Green Key| AND |Orange Key| AND |Patio Light|"
+  },
+  {
+    "name": "Green Plate (Living Room --> Kitchen)",
+    "region": "Living Room",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Green Plate|"
+  },
+  {
+    "name": "Guitar (Hallway --> Small Bedroom)",
+    "region": "Small Bedroom",
+    "category": [
+      "Small Bedroom"
+    ],
+    "requires": "|Guitar| AND |Yellow Key|"
+  },
+  {
+    "name": "Hat (Garage --> Attic)",
+    "region": "Attic",
+    "category": [
+      "Attic"
+    ],
+    "requires": "|Hat| AND |Red Key| AND |Orange Key|"
+  },
+  {
+    "name": "Hot Water Bottle (Jon's Bedroom --> Jon's Bedroom)",
+    "region": "Jon's Bedroom",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "requires": "|Hot Water Bottle| AND |Purple Key|"
+  },
+  {
+    "name": "Kitchen Scale (Small Bedroom --> Kitchen)",
+    "region": "Small Bedroom",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Kitchen Scale| AND |Yellow Key|"
+  },
+  {
+    "name": "Lamp (Den --> Landing)",
+    "region": "Den",
+    "category": [
+      "Landing"
+    ],
+    "requires": "|Lamp|"
+  },
+  {
+    "name": "Laundry Basket (Hallway --> Utility Room)",
+    "region": "Hallway",
+    "category": [
+      "Utility Room"
+    ],
+    "requires": "|Laundry Basket|"
+  },
+  {
+    "name": "Lei (Kitchen --> Small Bedroom)",
+    "region": "Small Bedroom",
+    "category": [
+      "Small Bedroom"
+    ],
+    "requires": "|Lei| AND |Yellow Key|"
+  },
+  {
+    "name": "Magazine Rack (Small Bedroom --> Living Room)",
+    "region": "Small Bedroom",
+    "category": [
+      "Living Room"
+    ],
+    "requires": "|Magazine Rack| AND |Yellow Key|"
+  },
+  {
+    "name": "Maraca (Kitchen --> Small Bedroom)",
+    "region": "Small Bedroom",
+    "category": [
+      "Small Bedroom"
+    ],
+    "requires": "|Maraca| AND |Yellow Key|"
+  },
+  {
+    "name": "Mailbox (Bathroom --> Garden)",
+    "region": "Bathroom",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Mailbox| AND |Dark Green Key| AND |Green Key|"
+  },
+  {
+    "name": "Monitor (Kitchen --> Den)",
+    "region": "Kitchen",
+    "category": [
+      "Den"
+    ],
+    "requires": "|Monitor|"
+  },
+  {
+    "name": "Yellow Vase (Small Bedroom --> Landing)",
+    "region": "Small Bedroom",
+    "category": [
+      "Landing"
+    ],
+    "requires": "|Yellow Vase| AND |Yellow Key|"
+  },
+  {
+    "name": "Hose Nozzle (Garage --> Garden)",
+    "region": "Garden",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Hose Nozzle| AND |Red Key| AND |Green Key|"
+  },
+  {
+    "name": "Odie's Bowl (Attic --> Garden)",
+    "region": "Attic",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Odie's Bowl| AND |Orange Key| AND |Green Key|"
+  },
+  {
+    "name": "Oil Can (Games Room --> Garage)",
+    "region": "Garage",
+    "category": [
+      "Garage"
+    ],
+    "requires": "|Oil Can| AND |Pink Key| AND |Red Key|"
+  },
+  {
+    "name": "Nermal's Pasta (Garden --> Kitchen)",
+    "region": "Garden",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Nermal's Pasta| AND |Green Key|"
+  },
+  {
+    "name": "Patio Light (Attic --> Garden)",
+    "region": "Attic",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Patio Light| AND |Orange Key| AND |Green Key|"
+  },
+  {
+    "name": "Pepper Jar (Games Room --> Kitchen)",
+    "region": "Games Room",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Pepper Jar| AND |Pink Key|"
+  },
+  {
+    "name": "Telephone (Utility Room --> Jon's Bedroom)",
+    "region": "Jon's Bedroom",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "requires": "|Telephone| AND |Purple Key|"
+  },
+  {
+    "name": "Piggy Bank (Basement --> Games Room)",
+    "region": "Games Room",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|Piggy Bank| AND |Dark Blue Key| AND |Pink Key|"
+  },
+  {
+    "name": "Pinata (Basement --> Small Bedroom)",
+    "region": "Basement",
+    "category": [
+      "Small Bedroom"
+    ],
+    "requires": "|Pinata| AND |Dark Blue Key| AND |Yellow Key|"
+  },
+  {
+    "name": "Pool Cue (Garden --> Games Room)",
+    "region": "Garden",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|Pool Cue| AND |Green Key| AND |Pink Key|"
+  },
+  {
+    "name": "Power Drill (Attic --> Garage)",
+    "region": "Attic",
+    "category": [
+      "Garage"
+    ],
+    "requires": "|Power Drill| AND |Orange Key| AND |Red Key|"
+  },
+  {
+    "name": "Power Sander (Garden --> Garage)",
+    "region": "Garden",
+    "category": [
+      "Garage"
+    ],
+    "requires": "|Power Sander| AND |Green Key| AND |Red Key| AND |Patio Light| AND |Orange Key|"
+  },
+  {
+    "name": "Pumpkin (Bathroom --> Garden)",
+    "region": "Bathroom",
+    "category": [
+      "Garden"
+    ],
+    "requires": "|Pumpkin| AND |Dark Green Key| AND |Green Key|"
+  },
+  {
+    "name": "Radio (Bathroom --> Kitchen)",
+    "region": "Bathroom",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Radio| AND |Dark Green Key|"
+  },
+  {
+    "name": "RC Car (Basement --> Garage)",
+    "region": "Garage",
+    "category": [
+      "Garage"
+    ],
+    "requires": "|RC Car| AND |Dark Blue Key| AND |Red Key|"
+  },
+  {
+    "name": "Record (Landing --> Games Room)",
+    "region": "Games Room",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|Record| AND |Pink Key|"
+  },
+  {
+    "name": "Red Book (Kitchen --> Hallway)",
+    "region": "Kitchen",
+    "category": [
+      "Hallway"
+    ],
+    "requires": "|Red Book|"
+  },
+  {
+    "name": "TV Remote (Jon's Bedroom --> Living Room)",
+    "region": "Jon's Bedroom",
+    "category": [
+      "Living Room"
+    ],
+    "requires": "|TV Remote| AND |Purple Key|"
+  },
+  {
+    "name": "Round Picture Frame (Utility Room --> Hallway)",
+    "region": "Utility Room",
+    "category": [
+      "Hallway"
+    ],
+    "requires": "|Round Picture Frame|"
+  },
+  {
+    "name": "Rubber Duck (Greenhouse --> Bathroom)",
+    "region": "Greenhouse",
+    "category": [
+      "Bathroom"
+    ],
+    "requires": "|Rubber Duck| AND |Black Key| AND |Dark Green Key| AND |Green Key|"
+  },
+  {
+    "name": "Arlene's Sauce (Garden --> Kitchen)",
+    "region": "Garden",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Arlene's Sauce| AND |Green Key| AND |Patio Light| AND |Orange Key| AND |Black Key| AND |Red Key| AND |Dark Blue Key| AND |Pink Key|"
+  },
+  {
+    "name": "Blue Bottle (Garden --> Bathroom)",
+    "region": "Bathroom",
+    "category": [
+      "Bathroom"
+    ],
+    "requires": "|Blue Bottle| AND |Green Key| AND |Dark Green Key|"
+  },
+  {
+    "name": "Skate (Garage --> Basement)",
+    "region": "Garage",
+    "category": [
+      "Basement"
+    ],
+    "requires": "|Skate| AND |Red Key| AND |Dark Blue Key|"
+  },
+  {
+    "name": "Sombrero (Jon's Bedroom --> Small Bedroom)",
+    "region": "Small Bedroom",
+    "category": [
+      "Small Bedroom"
+    ],
+    "requires": "|Sombrero| AND |Purple Key| AND |Yellow Key|"
+  },
+  {
+    "name": "Speaker (Hallway --> Living Room)",
+    "region": "Hallway",
+    "category": [
+      "Living Room"
+    ],
+    "requires": "|Speaker|"
+  },
+  {
+    "name": "Stereo (Games Room --> Jon's Bedroom)",
+    "region": "Games Room",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "requires": "|Stereo| AND |Pink Key| AND |Purple Key|"
+  },
+  {
+    "name": "Rubber Chicken (Basement --> Attic)",
+    "region": "Attic",
+    "category": [
+      "Attic"
+    ],
+    "requires": "|Rubber Chicken| AND |Dark Blue Key| AND |Orange Key|"
+  },
+  {
+    "name": "Tie (Games Room --> Jon's Bedroom)",
+    "region": "Games Room",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "requires": "|Tie| AND |Pink Key| AND |Purple Key|"
+  },
+  {
+    "name": "Tire (Attic --> Garage)",
+    "region": "Attic",
+    "category": [
+      "Garage"
+    ],
+    "requires": "|Tire| AND |Orange Key| AND |Red Key|"
+  },
+  {
+    "name": "Tissues (Hallway --> Hallway)",
+    "region": "Hallway",
+    "category": [
+      "Hallway"
+    ],
+    "requires": "|Tissues|"
+  },
+  {
+    "name": "Toaster (Garage --> Kitchen)",
+    "region": "Garage",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Toaster| AND |Red Key|"
+  },
+  {
+    "name": "Plunger (Kitchen --> Bathroom)",
+    "region": "Bathroom",
+    "category": [
+      "Bathroom"
+    ],
+    "requires": "|Plunger| AND |Dark Green Key|"
+  },
+  {
+    "name": "Towel (Den --> Bathroom)",
+    "region": "Bathroom",
+    "category": [
+      "Bathroom"
+    ],
+    "requires": "|Towel| AND |Dark Green Key|"
+  },
+  {
+    "name": "Toy Car (Living Room --> Games Room)",
+    "region": "Games Room",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|Toy Car| AND |Pink Key|"
+  },
+  {
+    "name": "Trash Can (Landing --> Jon's Bedroom)",
+    "region": "Jon's Bedroom",
+    "category": [
+      "Jon's Bedroom"
+    ],
+    "requires": "|Trash Can| AND |Purple Key|"
+  },
+  {
+    "name": "Car Jack (Bathroom --> Garage)",
+    "region": "Bathroom",
+    "category": [
+      "Garage"
+    ],
+    "requires": "|Car Jack| AND |Dark Green Key| AND |Red Key|"
+  },
+  {
+    "name": "Trumpet (Small Bedroom --> Basement)",
+    "region": "Basement",
+    "category": [
+      "Basement"
+    ],
+    "requires": "|Trumpet| AND |Yellow Key| AND |Dark Blue Key|"
+  },
+  {
+    "name": "Blue Vase (Basement --> Landing)",
+    "region": "Basement",
+    "category": [
+      "Landing"
+    ],
+    "requires": "|Blue Vase| AND |Dark Blue Key|"
+  },
+  {
+    "name": "Video Game (Garden --> Games Room)",
+    "region": "Garden",
+    "category": [
+      "Games Room"
+    ],
+    "requires": "|Video Game| AND |Green Key| AND |Pink Key|"
+  },
+  {
+    "name": "Recycling Bin (Kitchen --> Den)",
+    "region": "Kitchen",
+    "category": [
+      "Den"
+    ],
+    "requires": "|Recycling Bin|"
+  },
+  {
+    "name": "Weight (Garden --> Basement)",
+    "region": "Garden",
+    "category": [
+      "Basement"
+    ],
+    "requires": "|Weight| AND |Green Key| AND |Dark Blue Key|"
+  },
+  {
+    "name": "Valve Wheel (Garden --> Basement)",
+    "region": "Garden",
+    "category": [
+      "Basement"
+    ],
+    "requires": "|Valve Wheel| AND |Green Key| AND |Dark Blue Key|"
+  }
+]

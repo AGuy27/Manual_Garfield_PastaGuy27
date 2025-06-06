@@ -1,0 +1,17 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Garfield",
+  "creator": "PastaGuy27",
+  "filler_item_name": "Puzzle Pieces",
+  "starting_items": [
+    {
+      "items": [
+        "Animal Bed",
+        "Boots",
+        "Bucket",
+        "Laundry Basket",
+        "Laundry Detergent"
+      ]
+    }
+  ]
+}

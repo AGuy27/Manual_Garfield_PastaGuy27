@@ -1,0 +1,83 @@
+{
+  "Kitchen": {
+    "starting": true,
+    "connects_to": [
+      "Basement"
+    ],
+    "requires": []
+  },
+  "Living Room": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Hallway": {
+    "starting": true,
+    "connects_to": [
+      "Garden"
+    ],
+    "requires": []
+  },
+  "Utility Room": {
+    "starting": true,
+    "connects_to": [
+      "Garage",
+      "Garden"
+    ],
+    "requires": []
+  },
+  "Den": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Landing": {
+    "starting": true,
+    "connects_to": [
+      "Jon's Bedroom",
+      "Small Bedroom",
+      "Games Room",
+      "Bathroom",
+      "Attic"
+    ],
+    "requires": []
+  },
+  "Jon's Bedroom": {
+    "connects_to": [],
+    "requires": "|Purple Key|"
+  },
+  "Small Bedroom": {
+    "connects_to": [],
+    "requires": "|Yellow Key|"
+  },
+  "Basement": {
+    "connects_to": [],
+    "requires": "|Dark Blue Key|"
+  },
+  "Games Room": {
+    "connects_to": [],
+    "requires": "|Pink Key|"
+  },
+  "Garage": {
+    "connects_to": [],
+    "requires": "|Red Key|"
+  },
+  "Garden": {
+    "connects_to": [
+      "Greenhouse"
+    ],
+    "requires": "|Green Key|"
+  },
+  "Bathroom": {
+    "connects_to": [],
+    "requires": "|Dark Green Key|"
+  },
+  "Attic": {
+    "connects_to": [],
+    "requires": "|Orange Key|"
+  },
+  "Greenhouse": {
+    "connects_to": [],
+    "requires": "|Black Key|"
+  }
+}
